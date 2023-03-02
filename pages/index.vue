@@ -1,7 +1,6 @@
 <template>
-  <div class="font-integral">
-    I am working !
-  </div>
+  <HomeHero />
+  <HomeDescription />
 </template>
 
 <script setup lang="ts">
