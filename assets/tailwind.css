@@ -4,7 +4,7 @@
 
 @font-face {
     font-family: 'IntegralCF';
-    font-weight: 700;
-    src: url('assets/fonts/IntegralCF/IntegralCF-Bold.woff2') format('woff2'),
-    url('assets/fonts/IntegralCF/IntegralCF-Bold.woff') format('woff');
+    font-weight: normal;
+    src: url('assets/fonts/IntegralCF/IntegralCF-Regular.woff2') format('woff2'),
+    url('assets/fonts/IntegralCF/IntegralCF-Regular.woff') format('woff');
 }
